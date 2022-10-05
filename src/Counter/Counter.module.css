@@ -1,0 +1,27 @@
+.counterWrapper {
+    width: 400px;
+    margin: 50px auto;
+    border: 3px solid black;
+}
+.countMax {
+    color: red;
+}
+.countNumberBlock {
+    width: 400px
+}
+.countNumberBlock span {
+    font-size: 200px;
+}
+.button {
+    width: 200px;
+    height: 90px;
+    background: gold;
+    font-size: 20px;
+    border: 3px solid black;
+    border-top: 6px solid black;
+    cursor: pointer;
+}
+
+.buttonNotActive {
+    opacity: 0.7;
+}
